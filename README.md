@@ -32,7 +32,7 @@ Sou estudante do 5º semestre de **Ciência da Computação no Instituto Federal
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
 </div>
 
 <br>
@@ -50,25 +50,10 @@ Sou estudante do 5º semestre de **Ciência da Computação no Instituto Federal
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  ## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDaniel02&layout=compact&langs_count=6&theme=dark&hide=html,css,scss" height="150" alt="top languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurDaniel02&show_icons=true&theme=dark&include_all_commits=false" height="150" alt="stats graph" />
-</div>
-</div>
-
 ---
 
 ## 📫 Contato
