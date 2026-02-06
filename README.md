@@ -54,6 +54,7 @@ Sou estudante do 5º semestre de **Ciência da Computação no Instituto Federal
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+
 ---
 
 ## 📫 Contato
