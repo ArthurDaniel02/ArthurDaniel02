@@ -60,13 +60,18 @@ Sou estudante do 5º semestre de **Ciência da Computação no Instituto Federal
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurDaniel02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurDaniel02&layout=compact&langs_count=6&theme=dracula&hide=html,css,scss" height="150" alt="languages graph" />
+  ## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDaniel02&layout=compact&langs_count=6&theme=dark&hide=html,css,scss" height="150" alt="top languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurDaniel02&show_icons=true&theme=dark&include_all_commits=false" height="150" alt="stats graph" />
+</div>
 </div>
 
 ---
 
-## 📫 Vamos conectar?
+## 📫 Contato
 
 <div align="center">
   <a href="mailto:arthurd4niel02@gmail.com" target="_blank">
