@@ -14,7 +14,9 @@
 Sou estudante do 5º semestre de **Ciência da Computação no Instituto Federal de Brasília (IFB)**. Tenho muito interesse em descobrir e aprender sobre a tecnologia, como os dados trafegam, como os servidores respondem e como criar sistemas seguros e escaláveis.
 
 **Foco Acadêmico:** Engenharia de Software e Banco de Dados.
+
 **Experiência:** Tenho vivência como estágiario no **STJ**, o que me deu disciplina organizacional e visão de processos.
+
 **Objetivo:** Me tornar um Especialista em Backend e Arquitetura de Software.
 
 ---
