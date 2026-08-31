@@ -11,17 +11,11 @@
 ---
 
 ## 🧙‍♂️ Sobre Mim
-Sou estudante do 5º semestre de **Ciência da Computação no Instituto Federal de Brasília (IFB)**. Tenho muito interesse em descobrir e aprender sobre a tecnologia, como os dados trafegam, como os servidores respondem e como criar sistemas seguros e escaláveis.
-
-**Foco Acadêmico:** Engenharia de Software e Banco de Dados.
-
-**Experiência:** Tenho vivência como estágiario no **STJ**, o que me deu disciplina organizacional e visão de processos.
-
-**Objetivo:** Me tornar um Especialista em Backend e Arquitetura de Software.
+Sou estudante do 5º semestre de **Ciência da Computação no Instituto Federal de Brasília (IFB)**. Tenho muito interesse em descobrir e aprender sobre a tecnologia cada vez mais e me tornar um ótimo DEV
 
 ---
 
-## 🛠️ Minha Stack Principal (Backend)
+## 🛠️ Minha Stack Principal 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -39,7 +33,7 @@ Sou estudante do 5º semestre de **Ciência da Computação no Instituto Federal
 
 <br>
 
-> 💻 Atualmente, tenho domínio em criação de APIs com **Python/Django** e estou expandindo meu arsenal com **PHP**, focando em desenvolvimento seguro e estruturado.
+> 💻 Atualmente, tenho domínio em criação de APIs com **Python/Django** e estou expandindo meu conhecimento com **PHP**, focando em desenvolvimento seguro e estruturado.
 
 ---
 
